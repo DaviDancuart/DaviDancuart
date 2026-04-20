@@ -22,7 +22,6 @@ Gosto de transformar ideias em projetos práticos, utilizando <b>Agentes de IA</
 </p>
 
 <p>
-Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e, posteriormente, me especializar na aplicação de 
-<b>Inteligência Artificial e Eletrônica voltadas à Biotecnologia</b>, desenvolvendo soluções tecnológicas que impactem positivamente a sociedade.
+Meu objetivo profissional é ingressar em <b>Engenharia da Computação</b> e desenvolver soluções tecnológicas que impactem positivamente a sociedade.
 </p>
 
